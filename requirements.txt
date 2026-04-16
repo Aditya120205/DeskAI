@@ -1,0 +1,6 @@
+pywhatkit
+customtkinter
+word2number
+plyer
+psutil
+pycaw
